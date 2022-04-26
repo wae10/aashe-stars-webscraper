@@ -1,5 +1,5 @@
 # STARS Webscraper
-The Sustainability Tracking, Assessment & Rating System (STARS) is a transparent, self-reporting framework for colleges and universities to measure their sustainability performance. The purpose of this webscraper is to help a startup called Breeze Box LLC by compiling relevant information on hundreds of potential clients.
+The Sustainability Tracking, Assessment & Rating System ([STARS](https://reports.aashe.org/institutions/participants-and-reports/?sort=-country)) is a transparent, self-reporting framework for colleges and universities to measure their sustainability performance. The purpose of this webscraper is to help a startup called [Breeze Box LLC](https://www.mybreezebox.com/) by compiling relevant information on hundreds of potential clients.
 
 ## Output
 First 10/566 records shown below. Full output file [here](/data.csv).
