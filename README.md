@@ -2,7 +2,7 @@
 The Sustainability Tracking, Assessment & Rating System (STARS) is a transparent, self-reporting framework for colleges and universities to measure their sustainability performance. The purpose of this webscraper is to help a startup called Breeze Box LLC by compiling relevant information on hundreds of potential clients.
 
 ## Output
-First 10/566 shown below. Full output file [here](/data.csv).
+First 10/566 records shown below. Full output file [here](/data.csv).
 |Institution                          |Location            |Rating            |Score|Valid Through |Liaison        |Submitted     |Sustainability Rep|Reusable Keyword?|Number of Past Reports|
 |-------------------------------------|--------------------|------------------|-----|--------------|---------------|--------------|------------------|-----------------|----------------------|
 |University of Alaska Anchorage       |Anchorage, AK, US   |Reporter - expired|     |Aug. 11, 2018 |Ryan Buchholdt |Aug. 12, 2015 |                  |FALSE            |0                     |
