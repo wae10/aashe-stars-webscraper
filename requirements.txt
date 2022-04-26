@@ -1,0 +1,4 @@
+csv
+selenium
+os
+python-dotenv
